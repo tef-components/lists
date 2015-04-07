@@ -1,11 +1,11 @@
 {
-  "name": "tooltips",
+  "name": "lists",
   "version": "0.2.12",
-  "homepage": "https://github.com/tef-components/tooltips",
+  "homepage": "https://github.com/tef-components/lists",
   "authors": [
     "the TEF components team"
   ],
-  "description": "TEF components - tooltips",
+  "description": "TEF components - lists",
   "main": "index.html",
   "license": "MIT",
   "ignore": [
@@ -18,7 +18,6 @@
     "bower_components"
   ],
   "dependencies": {
-    "utils": "tef-components/utils",
-    "icons": "tef-components/icons"
+    "utils": "tef-components/utils"
   }
 }
